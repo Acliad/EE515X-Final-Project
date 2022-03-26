@@ -1,0 +1,29 @@
+6592445743439
+Geometries_MLIN
+RadialStub_L99.00mils_TraceWidth13.50mils_Angle80deg
+Radial stub for short circuit at 10 GHz. Matched to 50 ohms on JLC7628 substrate
+radial stub RF
+0
+1
+1
+Geometries_MLIN
+RatRaceCoupler_Radius156.50mils_TraceWidth5.90mils
+Rat Race coupler for 10 GHz. Matched to 50 ohms on JLC7628 substrate
+net tie Rat Race coupler RF
+0
+4
+4
+Geometries_MLIN
+RatRaceCoupler_Radius158.00mils_TraceWidth5.90mils
+Rat Race coupler for 10 GHz. Matched to 50 ohms on JLC7628 substrate
+net tie Rat Race coupler RF
+0
+4
+4
+Geometries_MLIN
+RatRaceCoupler_Radius163.00mils_TraceWidth5.90mils
+Rat Race coupler for 10 GHz. Matched to 50 ohms on JLC7628 substrate
+net tie Rat Race coupler RF
+0
+4
+4

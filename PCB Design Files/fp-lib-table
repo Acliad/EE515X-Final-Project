@@ -1,0 +1,3 @@
+(fp_lib_table
+  (lib (name "Geometries_MLIN")(type "KiCad")(uri "${KIPRJMOD}/libraries/footprints/Geometries_MLIN.pretty")(options "")(descr ""))
+)
